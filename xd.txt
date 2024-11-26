@@ -53,5 +53,3 @@ procesar_video(video_path, output_path="data/results/video_result.jpg")
 
 # Procesar video en vivo desde la cámara (si deseas usar la cámara)
 #procesar_video(0)  # 0 es el ID de la cámara predeterminada
-###
-###
